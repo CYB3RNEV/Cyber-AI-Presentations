@@ -11,6 +11,3 @@ My presentations done in my cybersecurity and AI classes.
     <h3>🤖 "Ethical AI for Social Engineering Defense"</h3>
     <img src="https://media.giphy.com/media/H7CKd1GO6oiZQo7L5d/giphy.gif" width="100%" style="border-radius: 10px;">
     <p>Training neural networks to recognize phishing patterns</p>
-    <a href="#"><img src="https://img.shields.io/badge/Video-Watch_Now-FF5252?style=flat-square"></a>
-  </div>
-</div>
