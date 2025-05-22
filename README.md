@@ -18,15 +18,3 @@ My presentations done in my cybersecurity and AI classes.
     <a href="#"><img src="https://img.shields.io/badge/Video-Watch_Now-FF5252?style=flat-square"></a>
   </div>
 </div>
-
----
-
-## � **Presentation Skills Matrix**
-
-```mermaid
-pie
-    title Content Breakdown
-    "Technical Depth" : 35
-    "Visual Storytelling" : 25
-    "Audience Engagement" : 30
-    "Actionable Insights" : 10
